@@ -1,0 +1,26 @@
+<array>
+				<dict>
+					<key>className</key>
+					<string>CopyrightSettingsPane</string>
+					<key>displayName</key>
+					<string>-(id) generateSettingsOptions</string>
+					<key>prefix</key>
+					<string>-</string>
+					<key>selector</key>
+					<string>generateSettingsOptions</string>
+					<key>typeEncoding</key>
+					<string>@16@0:8</string>
+				</dict>
+				<dict>
+					<key>className</key>
+					<string>CopyrightSettingsPane</string>
+					<key>displayName</key>
+					<string>-(void) viewDidLoad</string>
+					<key>prefix</key>
+					<string>-</string>
+					<key>selector</key>
+					<string>viewDidLoad</string>
+					<key>typeEncoding</key>
+					<string>v16@0:8</string>
+				</dict>
+</array>

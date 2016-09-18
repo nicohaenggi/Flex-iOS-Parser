@@ -1,0 +1,11 @@
+{
+  "name": "flexparser",
+  "version": "1.0.0",
+  "description": "A Flex Cydia Tweak .dat Parser, generating THEOS hooks for each specified class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico Hänggi",
+  "license": "MIT"
+}
